@@ -1,0 +1,40 @@
+{
+  "sutdents": [
+    {
+      "name": "Rasel",
+      "age": 120,
+      "skill": "javasript",
+      "gender": "Male",
+      "id": 2
+    },
+    {
+      "name": "nayeem",
+      "age": 520,
+      "skill": "laravel",
+      "gender": "Male",
+      "id": 3
+    },
+    {
+      "name": "horyra",
+      "age": 50,
+      "skill": "react",
+      "gender": "Male",
+      "id": 4
+    },
+    {
+      "name": "sumaya",
+      "age": 450,
+      "skill": "nextJs",
+      "gender": "Female",
+      "id": 5
+    },
+    {
+      "name": "Azad",
+      "age": 20,
+      "skill": "ios dev",
+      "gender": "Male",
+      "id": 6
+    }
+  ],
+  "teachers": []
+}
